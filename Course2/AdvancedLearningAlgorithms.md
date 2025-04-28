@@ -1,6 +1,6 @@
 ---
 aliases: 
-author: Li Yaozong
+author: https://github.com/Euzohn
 date: 2023-09-20
 time: 2023-09-20 16:00
 cover: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/78/f17b8da6f949f28a5e35a70bf5a837/MLS.course-banners-01_Course-Logo-2---DLAI-web.png

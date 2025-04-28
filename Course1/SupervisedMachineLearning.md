@@ -1,6 +1,6 @@
 ---
 aliases: 
-author: [Euzohn](https://github.com/Euzohn)
+author: https://github.com/Euzohn
 date: 2023-09-11
 time: 2023-09-11 15:33
 cover: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/90ae67ecdb4185a4ae79ec9a5ae0b6/Course-Logo--1.png
